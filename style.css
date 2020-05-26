@@ -4,7 +4,7 @@
 
 #back {
   width: 100%;
-  min-width: 720px;
+  min-width: 360px;
   height: 75%;
   min-height: 420px;
   position: absolute;
@@ -16,7 +16,7 @@
 
 #toolsBack {
   width: 100%;
-  min-width: 720px;
+  min-width: 360px;
   height: 25%;
   min-height: 100px;
   position: absolute;
