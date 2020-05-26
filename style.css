@@ -183,7 +183,7 @@
 .endText {
   padding: 5px;
   margin: 10% 20% 5px 20%;
-  position: absolute;
+  position: relative;
   text-align: center;
   font-size: 35px;
   font-family: Cambria;
@@ -195,7 +195,7 @@
   width: 25%;
   left: 37.5%;
   bottom: 50%;
-  position: absolute;
+  position: relative;
   border: 2px solid #362c61;
   border-radius: 30px;
   font: 25px sans-serif;
